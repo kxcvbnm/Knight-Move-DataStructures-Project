@@ -1,1 +1,1 @@
-# Knight Move Data Structures Project - Year 2
+# Knight Move Data Structures and Algorithm Project - Year 2
